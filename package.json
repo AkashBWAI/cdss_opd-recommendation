@@ -1,0 +1,17 @@
+{
+  "name": "cdss-opd-tests",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Playwright tests for CDSS OPD speciality recommendations (single, double and triple symptom selection)",
+  "scripts": {
+    "test": "playwright test",
+    "test:single": "playwright test --project=single",
+    "test:double": "playwright test --project=double",
+    "test:triple": "playwright test --project=triple",
+    "report": "playwright show-report"
+  },
+  "devDependencies": {
+    "@playwright/test": "1.54.1",
+    "exceljs": "4.4.0"
+  }
+}

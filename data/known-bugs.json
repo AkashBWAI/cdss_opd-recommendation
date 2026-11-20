@@ -1,0 +1,9 @@
+{
+  "single": {
+    "30": "Known app bug: Problem With Gums - backend HTTP 500 after the first question"
+  },
+  "double": {
+    "6": "Known app bug: Decreased Or No Urine + any associated symptom - backend HTTP 500 at the end of the flow"
+  },
+  "triple": {}
+}

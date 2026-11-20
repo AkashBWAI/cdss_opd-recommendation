@@ -1,0 +1,14 @@
+node_modules/
+playwright-report/
+test-results/
+results/
+.DS_Store
+
+# secrets - the demo URL contains an access token
+.env
+.env.*
+!.env.example
+
+# company data - kept out of the public repo
+data/opd-recommendation.xlsx
+data/symptoms.json

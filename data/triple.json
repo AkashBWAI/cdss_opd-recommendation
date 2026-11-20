@@ -1,0 +1,48 @@
+[
+  {
+    "a": "Epilepsy",
+    "b": "Confusion",
+    "c": "Chest Pain"
+  },
+  {
+    "a": "Excessive Hair",
+    "b": "Acne"
+  },
+  {
+    "a": "Small Pupil",
+    "b": "Double vision"
+  },
+  {
+    "a": "Passing Gas",
+    "b": "Bloating"
+  },
+  {
+    "a": "Nail Changes",
+    "b": "Pain around the nail"
+  },
+  {
+    "a": "Bumps On Skin",
+    "b": "Fever",
+    "c": "Headache"
+  },
+  {
+    "a": "Foreign Body In Eye",
+    "b": "Sinus Pain",
+    "c": "Common Cold"
+  },
+  {
+    "a": "Tuberculosis",
+    "b": "Fever",
+    "c": "Headache"
+  },
+  {
+    "a": "Swelling Around Nose",
+    "b": "Common Cold",
+    "c": "Sneezing"
+  },
+  {
+    "a": "Congestion Of Throat",
+    "b": "Cough",
+    "c": "Fever"
+  }
+]

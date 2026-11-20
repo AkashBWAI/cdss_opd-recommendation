@@ -1,0 +1,196 @@
+[
+  {
+    "a": "Dry Eye",
+    "b": "Abnormal vision"
+  },
+  {
+    "a": "Feeling Like Vomiting",
+    "b": "Difficulty in Swallowing"
+  },
+  {
+    "a": "Dry Skin",
+    "b": "Itching"
+  },
+  {
+    "a": "Tooth Erosion",
+    "b": "Headache"
+  },
+  {
+    "a": "Eye Pain",
+    "b": "Sinus Pain"
+  },
+  {
+    "a": "Decreased Or No Urine",
+    "b": "Fever"
+  },
+  {
+    "a": "Seeing Spots In Front Of Eye",
+    "b": "Double vision"
+  },
+  {
+    "a": "COVID-19",
+    "b": "Headache"
+  },
+  {
+    "a": "Wound odour",
+    "b": "Fever"
+  },
+  {
+    "a": "Muscle Cramp",
+    "b": "Headache"
+  },
+  {
+    "a": "Forgetfulness",
+    "b": "Confusion"
+  },
+  {
+    "a": "Loss Of Hair",
+    "b": "Fever"
+  },
+  {
+    "a": "Period Problems",
+    "b": "Weight Loss"
+  },
+  {
+    "a": "Female Genital Rash"
+  },
+  {
+    "a": "Filariasis"
+  },
+  {
+    "a": "Hiccups",
+    "b": "Chest Pain"
+  },
+  {
+    "a": "Diabetes Follow-Up",
+    "b": "Hypertension"
+  },
+  {
+    "a": "Swelling Of Tonsil",
+    "b": "Cough"
+  },
+  {
+    "a": "Dry Nose",
+    "b": "Sneezing"
+  },
+  {
+    "a": "Lump In Mouth",
+    "b": "Fever"
+  },
+  {
+    "a": "Weight Gain",
+    "b": "Fever"
+  },
+  {
+    "a": "Bleeding from Mouth",
+    "b": "Tooth loss"
+  },
+  {
+    "a": "Head Swelling",
+    "b": "Skin changes"
+  },
+  {
+    "a": "Vaginal Swelling",
+    "b": "Skin changes"
+  },
+  {
+    "a": "Nail Discoloration",
+    "b": "Dizziness"
+  },
+  {
+    "a": "Breast Pain"
+  },
+  {
+    "a": "Neck Swelling",
+    "b": "Stiff Neck"
+  },
+  {
+    "a": "Skin Changes",
+    "b": "Fever"
+  },
+  {
+    "a": "Fear",
+    "b": "Chest Pain"
+  },
+  {
+    "a": "Cancer",
+    "b": "Skin changes"
+  },
+  {
+    "a": "Eye Strain",
+    "b": "Abnormal vision"
+  },
+  {
+    "a": "Irregular Eye Movements",
+    "b": "Abnormal vision"
+  },
+  {
+    "a": "Aggression"
+  },
+  {
+    "a": "Constipation"
+  },
+  {
+    "a": "Ulcer Of Skin",
+    "b": "Fever"
+  },
+  {
+    "a": "Problem in smell",
+    "b": "Muscle weakness"
+  },
+  {
+    "a": "Involuntary Urination",
+    "b": "Cloudy urine"
+  },
+  {
+    "a": "Cloudy urine",
+    "b": "Blood in urine"
+  },
+  {
+    "a": "Grey Hair",
+    "b": "Dry skin"
+  },
+  {
+    "a": "Fluid Filled Lesions",
+    "b": "Fever"
+  },
+  {
+    "a": "Dandruff",
+    "b": "Itching"
+  },
+  {
+    "a": "Hoarse Voice",
+    "b": "Wheezing"
+  },
+  {
+    "a": "Oily Skin",
+    "b": "Bumps on skin"
+  },
+  {
+    "a": "Swelling Of Vein",
+    "b": "Itching"
+  },
+  {
+    "a": "Problem In Walking",
+    "b": "Muscle weakness"
+  },
+  {
+    "a": "Rectal Lump",
+    "b": "Piles"
+  },
+  {
+    "a": "Faster Heartbeat",
+    "b": "Chest Pain"
+  },
+  {
+    "a": "Swelling"
+  },
+  {
+    "a": "Eye Mass",
+    "b": "Abnormal vision"
+  },
+  {
+    "a": "Sneezing",
+    "b": "Cough"
+  }
+]
